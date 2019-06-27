@@ -1,12 +1,10 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        Pong
 # Purpose:
 #
-# Author:      kwjrr
+# Author:      Aidan Kyowski
 #
 # Created:     24/06/2019
-# Copyright:   (c) kwjrr 2019
-# Licence:     <your licence>
 #-------------------------------------------------------------------------------
 from turtle import *
 from winsound import *
